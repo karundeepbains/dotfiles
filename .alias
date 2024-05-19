@@ -1,0 +1,8 @@
+alias ls="ls --color"
+alias kx="kubectx"
+alias ns="kubens"
+alias vim="nvim"
+alias vi="nvim"
+alias t="tmux"
+alias tf="terraform"
+
